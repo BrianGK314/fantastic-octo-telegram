@@ -1,2 +1,2 @@
 # GDP-HAPPINESS-MACHINELEARNING
-This project used beautiful soup to scraoe wikipea and get information about couries gdp's and their happiness. 
+This project used beautiful soup to scrape Wikipea and obtain country's GDP's and their happiness.
